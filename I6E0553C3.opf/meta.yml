@@ -1,0 +1,25 @@
+id: I6E0553C3
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:59:45.241330'
+last_modified: '2022-05-30T20:59:45.241340'
+parser: null
+source_metadata:
+  title: Gyalwa Yangönpa
+  language: en
+  description: 'Texts by and about the famous Drukpa Kagyü adept Yangönpa Gyaltsen
+    Pal (yang dgon pa rgyal mtshan dpal, 1213–1258):'
+  volume:
+    f8999:
+      title: 'The Liberating Guide: A Prayer to Gyalwa Yangönpa'
+      base_file: f8999.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
